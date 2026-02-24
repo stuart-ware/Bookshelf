@@ -1,0 +1,13 @@
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/BookshelfApplication.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/Principal.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/api/AskApi.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/api/ConvertData.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/api/IConvertData.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/models/Author.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/models/Books.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/models/DTOAuthors.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/models/DTOBooks.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/models/Data.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/models/Language.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/repository/AuthorRepository.java
+/srv/nfs/PROJECTS/Java/AluraProjects/Bookshelf/src/main/java/com/aluracursos/bookshelf/repository/BookRepository.java

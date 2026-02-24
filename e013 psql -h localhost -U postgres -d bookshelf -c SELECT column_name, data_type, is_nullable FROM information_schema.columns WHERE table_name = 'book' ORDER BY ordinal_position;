@@ -1,0 +1,15 @@
+                         Table "public.book"
+  Column   |          Type          | Collation | Nullable | Default 
+-----------+------------------------+-----------+----------+---------
+ id        | bigint                 |           | not null | 
+ downloads | integer                |           |          | 
+ language  | character varying(255) |           |          | 
+ title     | character varying(255) |           |          | 
+ author_id | bigint                 |           |          | 
+Indexes:
+    "book_pkey" PRIMARY KEY, btree (id)
+Check constraints:
+    "book_language_check" CHECK (language::text = ANY (ARRAY['ES'::character varying, 'FR'::character varying, 'EN'::character varying, 'PT'::character varying]::text[]))
+Foreign-key constraints:
+    "fkklnrv3weler2ftkweewlky958" FOREIGN KEY (author_id) REFERENCES author(id)
+
